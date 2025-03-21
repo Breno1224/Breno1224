@@ -96,7 +96,7 @@
 </div>
 <p align="center" >
      <img 
-     src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" height="100px" alt="Cover" /> 
+     src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" height="500px" alt="Cover" /> 
 </p>
 
 ##
@@ -109,16 +109,16 @@
 <img src="https://raw.githubusercontent.com/Breno1224/Breno1224/output/snake.svg" alt="Snake animation" />
 <br>
 
-<p>
-  <img 
-   align="center" 
+<p align="center">
+  <img  
   src="https://i.pinimg.com/originals/52/8d/cb/528dcbfa42d264fa319b4ebbdd62c775.gif" height="170px" alt="Cover" />
  
+
+</p>
+<p   align="left">
   <img 
-  align="center"
   src="https://preview.redd.it/r69zzlrdo5w11.jpg?width=640&crop=smart&auto=webp&s=b70dc4201afec3af107e461576b39aa4bdb285e7" height="170px"  alt="Cover" />
 </p>
-
 
 ---
  

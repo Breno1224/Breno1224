@@ -90,7 +90,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
+  <center>
     <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" height="100px" alt="Cover" />
+    </center>
   
 </div>
 
@@ -103,11 +105,13 @@
 <h3> <img src="https://i.pinimg.com/originals/6c/62/87/6c62876ccccef57dd0377eb5f9d1af07.gif" height="20"> cobrinha🐍</h3>
 <img src="https://raw.githubusercontent.com/Breno1224/Breno1224/output/snake.svg" alt="Snake animation" />
 <br>
+<center>
 <p>
   <img src="https://i.pinimg.com/originals/52/8d/cb/528dcbfa42d264fa319b4ebbdd62c775.gif" height="170px" alt="Cover" />
  
   <img src="https://preview.redd.it/r69zzlrdo5w11.jpg?width=640&crop=smart&auto=webp&s=b70dc4201afec3af107e461576b39aa4bdb285e7" height="170px" alt="Cover" />
 </p>
+</center>
 
 ---
  

@@ -96,7 +96,7 @@
 </div>
 <p align="center" >
      <img 
-     src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" height="500px" alt="Cover" /> 
+     src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" tyle="width: 100%; max-width: 800px;" alt="Cover" /> 
 </p>
 
 ##

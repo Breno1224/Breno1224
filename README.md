@@ -90,13 +90,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-     <img 
-        align="center" 
-     src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" height="100px" alt="Cover" /> 
+
    
   
 </div>
-
+     <img 
+        align="center" 
+     src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" height="100px" alt="Cover" /> 
+     
 ##
 
 

@@ -94,10 +94,10 @@
    
   
 </div>
-<p align="center" >
+<!-- <p align="center" >
      <img 
      src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" tyle="width: 50%; height:200px;max-width: 800px;" alt="Cover" /> 
-</p>
+</p> -->
 
 ##
 
@@ -111,7 +111,7 @@
 
 <p align="center">
   <img  
-  src="https://i.pinimg.com/originals/52/8d/cb/528dcbfa42d264fa319b4ebbdd62c775.gif" height="170px" alt="Cover" />
+  src="https://i.pinimg.com/originals/52/8d/cb/528dcbfa42d264fa319b4ebbdd62c775.gif" style="width: 100%; max-width: 800px;" alt="Cover" />
  
 
 </p>

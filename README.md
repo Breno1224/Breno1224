@@ -18,7 +18,7 @@
 <br><br>
           - 💿 adoro programar <br>
           - 👨‍💻 estou aprendendo: C, python, React.js<br>
-          - 💻 meu portifolio: <a href="em manutenção="_blank">Click here</a></b><br>
+          - 💻 meu portifolio: <a href="="_blank">em manutenção</a></b><br>
         </p>
       </td>
     </tr>

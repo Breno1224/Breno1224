@@ -6,7 +6,7 @@
 
 <hr/><br>
 
-**`desenvolvedor full-stack`**
+**`desenvolvedor Front-End`**
         <h3 align="left">
         👾 Sobre mim 🤖
         </h3><br>
